@@ -1,1 +1,0 @@
-libgl1\nlibglib2.0-0\nlibgles2\nlibegl1\n
